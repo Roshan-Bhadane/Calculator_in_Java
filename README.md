@@ -65,7 +65,7 @@ java ModernCalculator
 
 Here’s a screenshot of the **Modern Java Calculator**:
 
-![Calculator Screenshot](images/Calculator.png)
+![Calculator Screenshot](Calculator.png)
 
 ## Contributing
 
