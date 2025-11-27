@@ -61,6 +61,12 @@ java ModernCalculator
 - **Backspace** - Delete the last entered character
 - **C** - Clear the display
 
+## Screenshots
+
+Here’s a screenshot of the **Modern Java Calculator**:
+
+![Calculator Screenshot](images/Calculator.png)
+
 ## Contributing
 
 Contributions are welcome! If you'd like to suggest improvements or contribute code, please fork the repository and create a pull request with your changes. You can also open issues to report bugs or suggest new features.
